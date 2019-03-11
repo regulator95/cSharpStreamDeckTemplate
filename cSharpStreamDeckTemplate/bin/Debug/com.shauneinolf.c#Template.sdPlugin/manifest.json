@@ -1,0 +1,43 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "c# Template",
+      "States": [
+        {
+          "Image": "Images/action1",
+          "TitleAlignment": "middle",
+          "FontSize": "17"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "",
+      "UUID": "com.shauneinolf.cSharpTemplate.sdPlugin",
+      "PropertyInspectorPath": "PropertyInspector/PI/Index.html"
+    }
+  ],
+  "Author": "Shaun Einolf",
+  "Description": "Used as template for C#",
+  "Name": "c# Template",
+  "Icon": "Images/pluginIcon",
+  "URL": "",
+  "Version": "0.1",
+  "CodePath": "streamdecktemplate.exe",
+  "Category": "Shaun Einolf",
+  "CategoryIcon": "Images/categoryIcon",
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.1"
+  },
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "ApplicationsToMonitor": {
+    "windows": [
+      "notepad.exe"
+    ]
+  }
+}
