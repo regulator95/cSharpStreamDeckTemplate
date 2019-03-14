@@ -10,7 +10,7 @@
           "FontSize": "17"
         }
       ],
-      "SupportedInMultiActions": false,
+      "SupportedInMultiActions": true,
       "Tooltip": "",
       "UUID": "com.shauneinolf.cSharpTemplate.sdPlugin",
       "PropertyInspectorPath": "PropertyInspector/PI/Index.html"
